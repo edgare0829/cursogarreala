@@ -1,0 +1,6 @@
+Comandos
+1.- Git Init: nos sirve para inicializar nuestro proyecto.
+2.-Git status : nos permite ver el estado actual de nuestro repositorio.
+3.-git add "nombre de archivo con extension" :nos sirve para realizar o mandar la version anterior a nuestro, proyecto para analizarla.
+4.-git commit -m "Agregando indes.html"  : Nos sirve para guardar una nueva version.
+5.- git add . : nos sirve para agregar archivos a nuestro repositorio.
